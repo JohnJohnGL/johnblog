@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/183/666/HD-wallpaper-stars-glare-black-space.jpg);
+    color: white;
+    font-size: larger;
+    padding: 0;
+    display: flex;
+}
+.left{
+    position: relative;
+    width: 70%;
+}
+img{
+    height: 50vh;
+}
+.img1{
+    mix-blend-mode:hard-light;
+}
+.img2{
+    mix-blend-mode:exclusion;
+}
+.img3{
+    mix-blend-mode:hard-light;
+}
+.right{
+    width: 30%;
+    border: 2px white solid;
+    border-color: white;
+    height: 50vh;
+    color: white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: red;
+}
+ul{
+    padding: 30px;
+}
+h4{
+    font-weight: bold;
+    font-style:italic;
+}
+.img4{
+    width: 30vw;
+}
+footer{
+    color: white;
+}
